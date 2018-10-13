@@ -26,7 +26,7 @@ class Print{
         System.out.print("INI PRINT CONTOH TANPA ENTER");
         System.out.print("INI PRINT CONTOH TANPA ENTER");
         // output
-        // // INI PRINT CONTOH TANPA ENTERINI PRINT CONTOH TANPA ENTER
+        // INI PRINT CONTOH TANPA ENTERINI PRINT CONTOH TANPA ENTER
 
         // ini cuma digunakan untuk memisahkan doang dengan print selanjutnya :v
         System.out.println();
