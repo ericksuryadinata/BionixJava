@@ -9,7 +9,7 @@ but I hope this is enough for your learning curve :D
 
 #### WINDOWS
 
-If you have netbeans installed on your system, just create new project and copy paste inside inside class
+If you have netbeans installed on your system, just create new project and copy paste inside the class not the file
 
 #### LINUX
 
