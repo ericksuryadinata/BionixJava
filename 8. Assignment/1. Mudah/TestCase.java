@@ -7,7 +7,7 @@ public class TestCase {
 
     public static void main(String[] args) {
         int umur;
-        Scanner input=new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.print("Masukkan Umur : ");
         umur=input.nextInt();
         if (umur<12) {
@@ -19,5 +19,6 @@ public class TestCase {
         }else if (umur>45){
             System.out.println("tua");
         }
+        input.close();
     }
 }

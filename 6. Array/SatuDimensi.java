@@ -9,8 +9,8 @@ class SatuDimensi{
             System.out.println(element);
         }
 
-        // apakah bisa menggunakan perulangan lainnya ? yasss bisa, tapi tidak disarankan
-        // karena perulangan lainnya ada batasannya
+        // apakah bisa menggunakan perulangan lainnya, tapi harus dihandle dengan bijak ya :)
+        
 
         
     }

@@ -24,5 +24,6 @@ public class Fibonacci {
             }
             System.out.println("\n"+hasil+" ");
         }
+        input.close();
     }
 }

@@ -15,5 +15,6 @@ public class LuasLingkaran {
         jarijari = input.nextInt();
         luas= 3.14*jarijari*jarijari;
         System.out.println("luas = "+luas);
+        input.close();
     }
 }

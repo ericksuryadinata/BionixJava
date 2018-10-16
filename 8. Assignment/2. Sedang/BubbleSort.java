@@ -21,7 +21,9 @@ public class BubbleSort {
                     deret[j] = deret[j+1];
                     deret[j+1] = tmp;    
                 }
-                System.out.print(deret[j] + " ");
+                for (int k = 0; k < deret.length - 1; k++) {
+                    System.out.print(deret[k] + " ");
+                }
             }
         }
 
