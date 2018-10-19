@@ -2,15 +2,13 @@
  * Fungsi
  */
 public class Fungsi {
-
-    static int fibo(int x){
-        if(x == 0 || x == 1){
-            return x;
-        }else{
-            return fibo(x - 1) + fibo(x - 2);
-        }
+    int a = 5;
+    static void anu(int a){
+        System.out.println("didalam fungsi "+ a);
     }
     public static void main(String[] args) {
-        
+        int a = 4;
+        System.out.println("didalam main" + a);
+        anu(a);
     }
 }

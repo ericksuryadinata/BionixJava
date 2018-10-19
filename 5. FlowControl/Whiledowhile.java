@@ -1,7 +1,7 @@
 /**
  * whiledowhile
  */
-public class whiledowhile {
+public class Whiledowhile {
 
     public static void main(String[] args) {
 
