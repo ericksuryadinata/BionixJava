@@ -1,1 +1,12 @@
 *.class
+/1. Introduction/nbproject/private/
+/1. Introduction/build/
+/2. Variabel/nbproject/private/
+/2. Variabel/build/
+/3. Operators/nbproject/private/
+/4. Expressions, Statements, and Blocks/nbproject/private/
+/5. FlowControl/nbproject/private/
+/6. Array/nbproject/private/
+/6. Fungsi/nbproject/private/
+/Contoh/nbproject/private/
+/Contoh/build/
