@@ -10,8 +10,15 @@ package Mudah;
  * @author erick
  */
 public class GlassHour {
-     public static void main(String[] args){
-         
+    public static void main(String[] args){
+        // Yak kita akan membuat bangun seperti
+        // *
+        // **
+        // ***
+        // ****
+        // ***
+        // **
+        // *
         int n = 5;
          
          
