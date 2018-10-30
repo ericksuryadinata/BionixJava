@@ -1,9 +1,6 @@
 package Sulit;
 
-
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.Hashtable;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -13,7 +10,7 @@ import java.util.Hashtable;
 
 /**
  *
- * @author root
+ * @author erick
  */
 public class FirstOccurence {
     // diambil dari pertanyaan masuk ke google :v
