@@ -14,6 +14,10 @@ public class Contoh1 {
 
     // method overriding, jadi semua method dengan parameter
     // apapun akan dibaca
+    static void cetak(){
+        System.out.println("asdasdasd");
+    }
+    
     static void cetak(String string){
         System.out.println(string);
     }
@@ -30,9 +34,13 @@ public class Contoh1 {
         System.out.println(string);
     }
     
+    static void cetak(boolean string){
+        System.out.println(string);
+    }
+    
     public static void main(String[] args){
-        cetak("Dicetak lewat fungsi");
-        cetak(1);
-        cetak(0.1);
+        int a = 0;
+        int b = 0;
+        int tambah = a + b;
     }
 }

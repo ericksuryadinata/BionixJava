@@ -27,9 +27,9 @@ public class CaesarSolver {
                 // karena range huruf cuma A sampai Z
                 // ketika ada huruf lebih besar dari Z, maka akan dikembalikan
                 // ke huruf awal
-                if(c > 'Z'){
+                if(c > 'Z')
                     c = c - 26;
-                }
+                
             }
             // jika char nya huruf kecil
             else if(Character.isLowerCase(c)){

@@ -14,7 +14,7 @@ public class Fungsi {
     // dalam mendefinisikan sebuah fungsi harus paham
     // 1. Modifiers
     // 2. Return type
-    // 3.  Nama Method / Fungsi
+    // 3. Nama Method / Fungsi
     // 4. Parameter
     
     // sehingga kalau dituliskan akan menjadi

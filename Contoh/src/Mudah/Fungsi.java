@@ -17,9 +17,15 @@ public class Fungsi {
         System.out.println(string);
     }
     
+    static int tambah(int x, int y){
+        return x+y;
+    }
     
     public static void main(String[] args){
         // ginikan enak :v, simple
         cetak("Aku belajar fungsi");
+        int a = 5;
+        int b = 6;
+        System.out.println(tambah(a,b));
     }
 }
