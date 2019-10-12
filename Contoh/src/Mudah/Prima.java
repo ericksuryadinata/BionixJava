@@ -20,22 +20,22 @@ public class Prima {
         int batas = input.nextInt();
 	jumlah=1;
 	for(bil=2;jumlah<=batas;bil++){
-		cek=0;
-		for(i=2;i<bil;i++)
-		{
-			if(bil%i==0)
-			{
-                            cek=1;
-			}
-		}
-		if(cek==0)
-		{
-			if(jumlah==batas)
-			System.out.print(bil);
-			else
-			System.out.print(bil+", ");
-			jumlah=jumlah+1;
-		}
+            cek=0;
+            for(i=2;i<bil;i++)
+            {
+                    if(bil%i==0)
+                    {
+                        cek=1;
+                    }
+            }
+            if(cek==0)
+            {
+                    if(jumlah==batas)
+                    System.out.print(bil);
+                    else
+                    System.out.print(bil+", ");
+                    jumlah=jumlah+1;
+            }
 	}
     }
 }
