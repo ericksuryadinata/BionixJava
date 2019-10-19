@@ -38,11 +38,31 @@ public class Fungsi {
         return a + b ;
     }
     
+     // fungsi rekursif
+    static int tambah(int x){
+        System.out.print(x);
+        if(x == 0){
+            return 0; 
+        }
+        return tambah(x-1);
+    }
+    
+    static int tambah(int x, int y, int z){
+        return x + y + z;
+    }
+    
+    public static int printZ(){
+        return 0;
+    }
+    
     // untuk fungsi diatas, mengapa harus ada returnnya ?
     // karena bukan tipe void
     // jadi bisa dikatakan selain tipe void harus mempunyai return type
 
     public static void main(String[] args) {
+        tambah(5);
+        tambah(4,5);
+        tambah(4,5,6);
         int a = 4, b=5;
         String k = "Aku kamu";
         
